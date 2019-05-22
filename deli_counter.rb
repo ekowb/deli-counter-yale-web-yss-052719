@@ -6,4 +6,3 @@ def line(array)
     return array
   end
 end
-      
