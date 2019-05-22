@@ -3,6 +3,9 @@ def line(array)
   if array.empty? == true
     puts "The line is currently empty."
   else
-    return array
+    entries = []
+    array.each do |person|
+
+    puts "The line is currently: #{entries} "
   end
 end
