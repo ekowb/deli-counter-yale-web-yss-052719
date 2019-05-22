@@ -5,6 +5,7 @@ def line(array)
   else
     entries = []
     array.each do |person|
+      entry = puts "#{counter}. #{person}"
 
     puts "The line is currently: #{entries} "
   end
